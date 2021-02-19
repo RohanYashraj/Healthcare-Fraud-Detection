@@ -1,0 +1,21 @@
+Features,percent_missing
+Claim Reported Date,8.35%
+Claim Settlement Date,10.71%
+Claim Paid Date,14.52%
+Claim Paid Amount,15.04%
+Type of Public Hospital,59.37%
+Aspirational district,90.72%
+PG / DNB Teaching hospital,94.13%
+Payment Denial Reason,95.76%
+trigger,97.61%
+Category,100.00%
+Relationship Code,100.00%
+Mapped_Diagnosis_Name,100.00%
+Premium Payment Frequency Code,100.00%
+Mapped_Diagnosis_Code,100.00%
+Doctor Code,100.00%
+Secondary Procedure Name,100.00%
+Secondary Diagnosis Name,100.00%
+Secondary Diagnosis Code,100.00%
+Plan Codes,100.00%
+Secondary Procedure Code,100.00%
